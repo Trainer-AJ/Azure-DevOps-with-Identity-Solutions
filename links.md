@@ -1,0 +1,1 @@
+- [Manage and monitor application by using app governance](https://learn.microsoft.com/en-us/defender-cloud-apps/app-governance-manage-app-governance)
